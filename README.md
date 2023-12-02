@@ -9,3 +9,8 @@
 Пример конечного вывода после команды “ls” :
 Desktop Documents Downloads  HumanFriends.txt  Music  PackAnimals.txt  Pets.txt  Pictures  Videos
 
+Приступаем
+С помощью команды cat создадим два текстовых файла: "Pets"(Домашние животные) и "Pack animals"(вьючные животные). 
+В первом файле перечислим собак, кошек и хомяков. 
+Во втором — лошадей, верблюдов и ослов.
+
