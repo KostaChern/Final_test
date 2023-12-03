@@ -20,6 +20,9 @@ Desktop Documents Downloads  HumanFriends.txt  Music  PackAnimals.txt  Pets.txt 
 и просмотрим его содержимое командой cat. 
 ![Model](IMAGES/linux/2.jpg )
 
-Создадим новую директорию folder и переместим туда файл "Human Friends".
+1.2. Создадим новую директорию folder и переместим туда файл "Human Friends".
 ![Model](IMAGES/linux/3.jpg )
+
+1.3. Установим и настроим MySQL на Linux Ubuntu 22.04.1 используя следующую команду:
+![Model](IMAGES/linux/4.jpg )
 
