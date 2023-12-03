@@ -19,3 +19,7 @@ Desktop Documents Downloads  HumanFriends.txt  Music  PackAnimals.txt  Pets.txt 
 1.1. Объединим содержимое этих двух файлов в один. Затем переименуем получившийся файл командой mv в "Human Friends" 
 и просмотрим его содержимое командой cat. 
 ![Model](IMAGES/linux/2.jpg )
+
+Создадим новую директорию folder и переместим туда файл "Human Friends".
+![Model](IMAGES/linux/3.jpg )
+
