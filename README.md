@@ -15,6 +15,8 @@ Desktop Documents Downloads  HumanFriends.txt  Music  PackAnimals.txt  Pets.txt 
 Во втором — лошадей, верблюдов и ослов.
 ![Alt text](IMAGES/linux/1.jpg)
 
+![Model](IMAGES/linux/1.jpg )
+
 1.1. Объединим содержимое этих двух файлов в один. Затем переименуем получившийся файл командой mv в "Human Friends" 
 и просмотрим его содержимое командой cat. 
 ![Alt text](IMAGES/linux/2.jpg)
