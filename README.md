@@ -13,7 +13,9 @@ Desktop Documents Downloads  HumanFriends.txt  Music  PackAnimals.txt  Pets.txt 
 С помощью команды cat создадим два текстовых файла: "Pets"(Домашние животные) и "Pack animals"(вьючные животные). 
 В первом файле перечислим собак, кошек и хомяков. 
 Во втором — лошадей, верблюдов и ослов.
+
 https://github.com/KostaChern/Final_test/commit/a97de21d9c61a9e7e6fdd866e655edf0eef57dff
+
 1.1. Объединим содержимое этих двух файлов в один. Затем переименуем получившийся файл командой mv в "Human Friends" 
 и просмотрим его содержимое командой cat.
 
