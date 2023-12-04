@@ -26,3 +26,6 @@ Desktop Documents Downloads  HumanFriends.txt  Music  PackAnimals.txt  Pets.txt 
 1.3. Установим и настроим MySQL на Linux Ubuntu 22.04.1 используя следующую команду:
 ![Model](IMAGES/linux/4.jpg )
 
+1.4 Зайдём на сайт dev.mysql.com и найдем там название deb пакета MySQL APT Repository:
+![Model](IMAGES/linux/5.jpg )
+
