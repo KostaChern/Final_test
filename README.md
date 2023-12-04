@@ -28,4 +28,5 @@ Desktop Documents Downloads  HumanFriends.txt  Music  PackAnimals.txt  Pets.txt 
 
 1.4 Зайдём на сайт dev.mysql.com и найдем там название deb пакета MySQL APT Repository:
 ![Model](IMAGES/linux/5.jpg )
-
+1.4.1 Скопируем название файла пакета deb и с помощью команды wget скачаем данный пакет в нашу текущую директорию. Установим скаченный пакет deb
+![Model](IMAGES/linux/6.jpg )
