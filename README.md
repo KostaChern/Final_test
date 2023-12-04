@@ -33,6 +33,6 @@ Desktop Documents Downloads  HumanFriends.txt  Music  PackAnimals.txt  Pets.txt 
 ![Model](IMAGES/linux/6.jpg )
 1.4.2 и затем удалим его с помощью команды dpkg:
 ![Model](IMAGES/linux/7.jpg )
-![Model](IMAGES/linux/7.jpg )
+![Model](IMAGES/linux/8.jpg )
 
 
