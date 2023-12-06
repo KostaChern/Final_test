@@ -64,6 +64,8 @@ Desktop Documents Downloads  HumanFriends.txt  Music  PackAnimals.txt  Pets.txt 
 ![Model](IMAGES/sql/10.jpg )
 ![Model](IMAGES/sql/11.jpg )
    - Создать новую таблицу для животных в возрасте от 1 до 3 лет и вычислить их возраст с точностью до месяца.
+![Model](IMAGES/sql/12.jpg )
+![Model](IMAGES/sql/13.jpg )
    - Объединить все созданные таблицы в одну, сохраняя информацию о принадлежности к исходным таблицам.
 
 
