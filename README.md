@@ -70,7 +70,7 @@ Desktop Documents Downloads  HumanFriends.txt  Music  PackAnimals.txt  Pets.txt 
 ![Model](IMAGES/sql/14.jpg )
 ![Model](IMAGES/sql/15.jpg )
 
-SQL файл ![Model](IMAGES/sql.sql )
+SQL файл ![Model](IMAGES/sql/sql.sql)
 
 
 
