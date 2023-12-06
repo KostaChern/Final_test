@@ -67,6 +67,8 @@ Desktop Documents Downloads  HumanFriends.txt  Music  PackAnimals.txt  Pets.txt 
 ![Model](IMAGES/sql/12.jpg )
 ![Model](IMAGES/sql/13.jpg )
    - Объединить все созданные таблицы в одну, сохраняя информацию о принадлежности к исходным таблицам.
+![Model](IMAGES/sql/14.jpg )
+![Model](IMAGES/sql/15.jpg )
 
 
 
