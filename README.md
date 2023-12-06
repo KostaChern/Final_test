@@ -60,6 +60,8 @@ Desktop Documents Downloads  HumanFriends.txt  Music  PackAnimals.txt  Pets.txt 
 ![Model](IMAGES/sql/7.jpg )
 ![Model](IMAGES/sql/8.jpg )
    - Удалить записи о верблюдах и объединить таблицы лошадей и ослов.
+![Model](IMAGES/sql/9.jpg )
+![Model](IMAGES/sql/10.jpg )
    - Создать новую таблицу для животных в возрасте от 1 до 3 лет и вычислить их возраст с точностью до месяца.
    - Объединить все созданные таблицы в одну, сохраняя информацию о принадлежности к исходным таблицам.
 
