@@ -3,7 +3,6 @@ import java.time.Period;
 import java.util.LinkedHashSet;
 import java.util.Set;
 import java.util.StringJoiner;
-import java.util.logging.Handler;
 
 public class Animal {
 
