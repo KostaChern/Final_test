@@ -84,7 +84,7 @@ public class Animal {
             String[] splitCommands = split[3].split(", ");
             for (String command : splitCommands) {
                 String commandTrim = command.trim().replaceAll("\\s+", " ");
-                if (commandTrim != "")
+                if (commandTrim != "");
                     commands.add(commandTrim);
             }
         }
