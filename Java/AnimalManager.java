@@ -14,7 +14,7 @@ public class AnimalManager {
 
     public void loadAnimals() throws IOException {
         File file = new File(
-                "E:\\Обучение\\GB\\19. Итоговая контрольная работа по блоку специализация\\Урок 2\\3. Java\\Animals.txt");
+                "C:\\Users\\codah\\Desktop\\GB\\Final_test\\Java\\Animals.txt");
         BufferedReader br = new BufferedReader(new FileReader(file));
         String line;
         while ((line = br.readLine()) != null) {
